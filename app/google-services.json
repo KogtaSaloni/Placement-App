@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954845097518",
+    "firebase_url": "https://placementv2-bb592.firebaseio.com",
+    "project_id": "placementv2-bb592",
+    "storage_bucket": "placementv2-bb592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954845097518:android:ff50f3e370560196",
+        "android_client_info": {
+          "package_name": "com.example.saloni.placementv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954845097518-b93hnh9ln1bhir0takaofgpuvn5tlor9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4wkluqS86TCfgzct12CbGQ21LBsJlJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
